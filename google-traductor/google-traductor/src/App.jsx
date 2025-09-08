@@ -1,15 +1,12 @@
-function App(){
-    return (
-        <>
-            <header>
+import Header from "./layout/Header";
+import Main from "./layout/Main";
 
-            </header>
-
-            <main>
-
-            </main>
-        </>
-    )
+function App() {
+  return (
+    <>
+      <Header />
+      <Main/>
+    </>
+  );
 }
-
-export default App
+export default App;
