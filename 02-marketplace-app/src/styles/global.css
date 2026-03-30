@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@theme{
+
+    --color-primary: #1e089d; /*morado azulado*/
+    
+    --font-space: 'Space Grotesk Variable', sans-serif;
+}
