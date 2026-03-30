@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Electronics",
+      "image": "https://via.placeholder.com/300x200?text=Electronics"
+    },
+    {
+      "id": "cat-2",
+      "name": "Clothing",
+      "image": "https://via.placeholder.com/300x200?text=Clothing"
+    },
+    {
+      "id": "cat-3",
+      "name": "Home & Kitchen",
+      "image": "https://via.placeholder.com/300x200?text=Home"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Smartphone X",
+      "price": 799.99,
+      "categoryId": "cat-1",
+      "image": "https://via.placeholder.com/200?text=Phone",
+      "stock": 12,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-2",
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "categoryId": "cat-1",
+      "image": "https://via.placeholder.com/200?text=Headphones",
+      "stock": 30,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-3",
+      "name": "Basic T-Shirt",
+      "price": 19.99,
+      "categoryId": "cat-2",
+      "image": "https://via.placeholder.com/200?text=T-Shirt",
+      "stock": 50,
+      "rating": 4.0
+    }
+  ]
+}
